@@ -191,7 +191,7 @@ body {
     /* Rounded corners */
     padding: 20px;
     /* Padding */
-    margin-bottom: 20px;
+    margin-bottom: 0px;
     /* Margin at the bottom */
   }
 
@@ -211,7 +211,7 @@ body {
     /* Medium font size for paragraphs */
     line-height: 1.5;
     /* Line height for better readability */
-    margin-bottom: 15px;
+    margin-bottom: 10px;
     /* Margin at the bottom of paragraphs */
   }
 
